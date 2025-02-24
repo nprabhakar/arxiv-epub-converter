@@ -1,3 +1,5 @@
 arxiv>=1.4.3
 ebooklib>=0.18.0
 requests>=2.28.0
+pypandoc>=1.12
+PyMuPDF>=1.22.0
